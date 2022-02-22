@@ -6,4 +6,4 @@
 - 💬 Ask me anything about JavaScript/TypeScript
 - 📫 How to reach me: 
   - [Website](https://breban.ro)
-  - [Linkeding](https://www.linkedin.com/in/sergiu-breban-13ba63b1/)
+  - [Linkedin](https://www.linkedin.com/in/sergiu-breban-13ba63b1/)
