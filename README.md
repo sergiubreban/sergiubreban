@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Full Stack Web Developer
-- 🌱 I’m currently learning Web3 Development
-- 👯 I’m looking to collaborate on Web3 projects
+- 🔭 I’m currently working in JavaScript/TypeScript ecosystem
 - 💬 Ask me anything about JavaScript/TypeScript
 - 📫 How to reach me: 
   - [Website](https://breban.ro)
